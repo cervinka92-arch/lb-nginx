@@ -1,5 +1,3 @@
-yaml
-
 name: Destroy ECS Infrastructure
 
 on:
